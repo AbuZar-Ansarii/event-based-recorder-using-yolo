@@ -5,6 +5,9 @@ This project continuously buffers webcam video and uses AI-based event detection
 
 It is part of the **internship technical assignment** on Event-Based Video Recording Using AI Event Detection.
 
+## Preview 
+https://github.com/user-attachments/assets/4d579860-ebc6-4d69-9d68-9a2a85fb51c8
+
 ---
 
 ## ⚙️ Features
