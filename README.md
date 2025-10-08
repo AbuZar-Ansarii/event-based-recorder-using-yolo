@@ -8,6 +8,8 @@ It is part of the **internship technical assignment** on Event-Based Video Recor
 ## Preview 
 https://github.com/user-attachments/assets/4d579860-ebc6-4d69-9d68-9a2a85fb51c8
 
+## Project Explanation.
+https://drive.google.com/file/d/1Q_DJWRoFO22fYRUDofNbIapy_yFHNVWQ/view?usp=drivesdk
 ---
 
 ## ⚙️ Features
